@@ -1,0 +1,27 @@
+{
+  "name": "schoolteacherarrangementtracking",
+  "version": "1.0.0",
+  "description": "A school teacher arrangement tracking system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "school",
+    "teacher",
+    "arrangement",
+    "tracking"
+  ],
+  "author": "Champcoder07",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "webpack": "^5.75.0"
+  }
+}
